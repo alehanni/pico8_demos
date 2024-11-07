@@ -1,0 +1,10 @@
+pico-8 cartridge // http://www.pico-8.com
+version 42
+__lua__
+#include "__lua__"
+__gfx__
+#include "__gfx__"
+__gff__
+#include "__gff__"
+__map__
+#include "__map__"
